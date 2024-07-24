@@ -20,6 +20,8 @@ int main() {
     std::cout << "Enter #2: ";
     std::cin >> num2;
 
+    std::cout << "test changes!";
+
     switch(op){
         case '+':
             result = num1 + num2;
